@@ -1,6 +1,6 @@
 # Cordova Streaming Media plugin
 
-for iOS and Android, by [hongyukico](https://github.com/hongyukico)
+for iOS and Android, by [ktb](https://github.com/hongyukico)
 
 ## Description
 
@@ -12,7 +12,7 @@ This plugin allows you to stream audio and video in a fullscreen, native player 
 ## Installation
 
 ```
-cordova plugin add cordova-plugin-streaming-media
+cordova plugin add cordova-plugin-ktb-media
 ```
 
 ### iOS specifics
